@@ -1,0 +1,21 @@
+name: credit_risk
+channels:
+  - defaults
+dependencies:
+- pip
+- python
+- jupyter
+# data manipulation
+- numpy
+- pandas
+# data visualization
+- matplotlib
+- seaborn
+- plotly
+# statistical models
+- scipy
+- statsmodels 
+# model building
+- scikit-learn
+- xgboost ==2.0.3
+- tensorflow 
