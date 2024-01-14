@@ -17,5 +17,5 @@ dependencies:
 - statsmodels 
 # model building
 - scikit-learn
-- xgboost ==2.0.3
+- xgboost 
 - tensorflow 
